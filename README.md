@@ -1,85 +1,154 @@
-# Sagnik Chakravarty
+<h1 align="center">Hi, I'm Sagnik Chakravarty</h1>
 
-I am a Survey and Data Science graduate student at the University of Maryland, College Park, working at the intersection of **survey methodology, machine learning, NLP, computational social science, and public discourse measurement**.
+<p align="center">
+  <strong>Survey & Data Science · NLP · Computational Social Science · Public Opinion Measurement</strong>
+</p>
 
-My work focuses on how data are generated, measured, and interpreted, especially in settings involving survey response behavior, digital trace data, public opinion, political communication, and large language models. I have completed graduate training in Survey and Data Science at UMD, prior graduate training in Data Science, and undergraduate training in Statistics. :contentReference[oaicite:0]{index=0}
+<p align="center">
+  <a href="https://sagnik-chakravarty.github.io/">Portfolio</a> ·
+  <a href="https://github.com/Sagnik-Chakravarty">GitHub</a> ·
+  <a href="https://linkedin.com/in/sagnik-chakravarty">LinkedIn</a> ·
+  <a href="https://scholar.google.com/citations?user=thxuXDwAAAAJ&hl=en">Google Scholar</a>
+</p>
 
-## Research Areas
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sagnik-Chakravarty&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Survey%20Methodology-UMD-red" alt="Survey Methodology" />
+  <img src="https://img.shields.io/badge/Data%20Science-NLP-blue" alt="Data Science NLP" />
+  <img src="https://img.shields.io/badge/Research-Computational%20Social%20Science-green" alt="Computational Social Science" />
+</p>
 
-- Survey methodology and Total Survey Error
-- NLP and computational social science
-- LLM-assisted discourse analysis
-- Public opinion and digital trace data
-- Response rates, nonresponse, and mode effects
-- Multilevel modeling and causal inference
-- Sports analytics and policy measurement
+---
+
+## About Me
+
+I am a **Survey and Data Science** graduate student at the **University of Maryland, College Park**, with prior graduate training in **Data Science** and undergraduate training in **Statistics**.
+
+My work sits at the intersection of **survey methodology, machine learning, NLP, public discourse analysis, and computational social science**. I am especially interested in how data are generated, measured, validated, and interpreted — whether the data come from surveys, social media, administrative records, news, or large language models.
+
+I build projects that connect statistical rigor with practical data systems: survey response modeling, LLM-assisted discourse coding, sentiment and stance analysis, policy measurement, multilevel modeling, and reproducible research workflows.
+
+---
+
+## Current Research Focus
+
+- Survey methodology, nonresponse, mode effects, and Total Survey Error
+- LLM evaluation for public opinion and digital trace measurement
+- NLP pipelines for framing, metaphor, stance, and sentiment analysis
+- Computational social science using news, Reddit, Bluesky, YouTube, and administrative data
+- Multilevel modeling, causal inference, and interpretable machine learning
+- Public-facing research tools, dashboards, and reproducible workflows
+
+---
 
 ## Featured Projects
 
-### FrameScope: AI Metaphor and Framing Analysis
-LLM-assisted pipeline for detecting metaphor frames, stance, and public narratives about artificial intelligence across news and social media.
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Sagnik-Chakravarty/FrameScope">FrameScope</a></h3>
+      <p>LLM-assisted metaphor, stance, and framing analysis of AI discourse across news and social media.</p>
+      <p><strong>Methods:</strong> LLM annotation, metaphor detection, stance classification, embeddings, NLP pipelines</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Sagnik-Chakravarty/ASHA">ASHA Survey Methodology Analysis</a></h3>
+      <p>Survey methodology project evaluating postcard reminders, mail vs. web mode effects, response rates, and subgroup nonresponse.</p>
+      <p><strong>Methods:</strong> response-rate analysis, bootstrap inference, logistic regression, chi-square tests</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Sagnik-Chakravarty/Immigration-Narrative-Vs-Enforcement">Immigration Narratives vs. Enforcement</a></h3>
+      <p>Policy/data project comparing immigration narratives from news and Reddit with CBP and ICE enforcement indicators.</p>
+      <p><strong>Methods:</strong> monthly aggregation, z-scores, divergence measures, regression, residual diagnostics</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Sagnik-Chakravarty/AAPOR_EV_Project">EV Sentiment: LLMs vs. Digital Trace Data</a></h3>
+      <p>AAPOR-selected project comparing LLM-generated EV sentiment with observed public discourse from Reddit, news, and online data.</p>
+      <p><strong>Methods:</strong> sentiment analysis, LLM evaluation, platform comparison, public opinion measurement</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Sagnik-Chakravarty/Media-Aware-GTI-ML">Media-Aware GTI-ML</a></h3>
+      <p>Interpretable ML project combining Global Terrorism Database event records with international news framing to analyze terrorism severity rankings.</p>
+      <p><strong>Methods:</strong> random forest, decision trees, feature importance, residual analysis, media framing</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Sagnik-Chakravarty/Moneyball_FC">Moneyball FC</a></h3>
+      <p>Football analytics project using multilevel modeling to study how player, club, and league-level factors shape market value.</p>
+      <p><strong>Methods:</strong> multilevel regression, variance decomposition, player valuation, sports analytics</p>
+    </td>
+  </tr>
+</table>
 
-**Methods:** LLM annotation, metaphor detection, stance classification, NLP pipelines, public discourse analysis  
-**Tools:** Python, OpenAI API, NLP, embeddings, GitHub, web deployment
+---
 
-### ASHA Survey Methodology Analysis
-Survey methodology project evaluating postcard reminders, mail vs. web survey mode effects, response rates, and subgroup nonresponse patterns for professional association surveys.
+## Technical Stack
 
-**Methods:** response-rate analysis, bootstrap inference, logistic regression, chi-square tests, mode-effect analysis  
-**Tools:** R, Quarto, survey methodology, data cleaning, stakeholder reporting
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Quarto-39729E?style=for-the-badge&logo=quarto&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-### Immigration Narratives vs. Enforcement Statistics
-Policy-relevant analysis comparing immigration-related media and social media narratives with administrative enforcement indicators from CBP and ICE.
+### Methods
 
-**Methods:** monthly aggregation, z-score standardization, divergence measures, regression, residual diagnostics  
-**Tools:** R, Quarto, GDELT, Reddit, CBP, ICE data
+```text
+Survey methodology | sampling | nonresponse | mode effects | Total Survey Error
+NLP | sentiment analysis | stance classification | metaphor/framing analysis
+LLM evaluation | prompt workflows | text-as-data | computational social science
+Multilevel modeling | causal inference | regression | interpretable machine learning
+Data cleaning | reproducible reporting | dashboards | research communication
+```
 
-### EV Public Sentiment: LLMs vs. Digital Trace Data
-AAPOR-selected project comparing LLM-generated electric vehicle sentiment with observed public discourse from Reddit, news, and other digital trace sources.
+---
 
-**Methods:** sentiment analysis, LLM evaluation, platform comparison, public opinion measurement  
-**Tools:** Python, R, DistilBERT, Reddit data, news data, Quarto
+## GitHub Stats
 
-### Media-Aware GTI-ML
-Interpretable machine learning project combining Global Terrorism Database event records with international news framing to analyze terrorism severity rankings.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sagnik-Chakravarty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagnik-Chakravarty&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
-**Methods:** random forest regression, decision trees, residual analysis, feature importance, media framing  
-**Tools:** R, Python, GTD, Playwright, NLP, Quarto
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagnik-Chakravarty&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-### Moneyball FC
-Football analytics project using multilevel modeling to study how player, club, and league-level factors shape professional soccer player market value.
-
-**Methods:** multilevel regression, variance decomposition, player valuation, sports analytics  
-**Tools:** R, lme4, ggplot2, Transfermarkt-style data
-
-## Technical Skills
-
-**Programming:** Python, R, SQL  
-**Machine Learning:** PyTorch, TensorFlow, scikit-learn, PyTorch Geometric  
-**NLP:** Hugging Face, spaCy, NLTK, LLM prompting/evaluation  
-**Survey/Data Methods:** sampling, response rates, mode effects, causal inference, multilevel modeling  
-**Data Tools:** pandas, dplyr, Playwright, Quarto, Git/GitHub  
-**Visualization:** ggplot2, matplotlib, dashboards, research figures
+---
 
 ## Selected Research and Conference Work
 
-- AAPOR 80th Annual Conference — EV public sentiment and LLM comparison project
-- IISA 2025 — Media-aware GTI ranking analysis
-- NCSET Best Paper — Topological Data Analysis on DNA/RNA structures
-- NCSET Best Paper — PageRank and HITS citation-network analysis
+- **AAPOR 80th Annual Conference** — EV public sentiment and LLM comparison project
+- **IISA 2025** — Media-aware GTI ranking analysis
+- **NCSET Best Paper** — Topological Data Analysis on DNA/RNA structures
+- **NCSET Best Paper** — PageRank and HITS citation-network analysis
 
-## Current Focus
+---
 
-I am currently building projects that connect survey methodology with modern AI systems:
+## What I Am Building Toward
 
-- validating LLM outputs against observed public discourse,
-- using NLP to measure framing and sentiment,
-- modeling nonresponse and survey design effects,
-- developing public-facing research portfolios and reproducible workflows.
+I am currently focused on research and applied data roles that combine:
 
-## Links
+- rigorous survey/statistical methodology,
+- large-scale text and public discourse data,
+- LLM evaluation and AI-assisted coding workflows,
+- policy, social, and behavioral data analysis,
+- reproducible data products for research and decision-making.
 
-- Portfolio: https://sagnik-chakravarty.github.io/
-- GitHub: https://github.com/Sagnik-Chakravarty
-- LinkedIn: https://linkedin.com/in/sagnik-chakravarty
-- Google Scholar: https://scholar.google.com/citations?user=thxuXDwAAAAJ&hl=en
+---
+
+## Contact
+
+<p align="center">
+  <a href="mailto:sagnikch@umd.edu"><img src="https://img.shields.io/badge/Email-sagnikch%40umd.edu-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://sagnik-chakravarty.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sagnik-chakravarty"><img src="https://img.shields.io/badge/LinkedIn-Sagnik%20Chakravarty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=thxuXDwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+</p>
