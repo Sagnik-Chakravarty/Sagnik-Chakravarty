@@ -113,8 +113,12 @@ Data cleaning | reproducible reporting | dashboards | research communication
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sagnik-Chakravarty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagnik-Chakravarty&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sagnik-Chakravarty&theme=tokyonight" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sagnik-Chakravarty&theme=tokyonight" alt="GitHub detailed stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sagnik-Chakravarty&theme=tokyonight&utcOffset=-5" alt="Productive time" />
 </p>
 
 <p align="center">
@@ -128,19 +132,10 @@ Data cleaning | reproducible reporting | dashboards | research communication
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sagnik-Chakravarty&theme=tokyonight" alt="Most committed languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sagnik-Chakravarty&theme=tokyonight" alt="GitHub profile summary" />
-</p>
-
 ### Commit Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagnik-Chakravarty&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sagnik-Chakravarty&theme=tokyonight&utcOffset=-5" alt="Productive time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sagnik-Chakravarty&theme=tokyonight" alt="Detailed stats" />
 </p>
 
 ---
