@@ -43,14 +43,44 @@ I build projects that connect statistical rigor with practical data systems: sur
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Sagnik-Chakravarty/FrameScope">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagnik-Chakravarty&repo=FrameScope&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Sagnik-Chakravarty/ThuggerDaily">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagnik-Chakravarty&repo=ThuggerDaily&theme=tokyonight" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Sagnik-Chakravarty/FrameScope">FrameScope</a></h3>
+      <p>LLM-assisted metaphor, stance, and framing analysis of AI discourse across news and social media.</p>
+      <p><strong>Methods:</strong> LLM annotation, metaphor detection, stance classification, embeddings, NLP pipelines</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Sagnik-Chakravarty/ASHA">ASHA Survey Methodology Analysis</a></h3>
+      <p>Survey methodology project evaluating postcard reminders, mail vs. web mode effects, response rates, and subgroup nonresponse.</p>
+      <p><strong>Methods:</strong> response-rate analysis, bootstrap inference, logistic regression, chi-square tests</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Sagnik-Chakravarty/Immigration-Narrative-Vs-Enforcement">Immigration Narratives vs. Enforcement</a></h3>
+      <p>Policy/data project comparing immigration narratives from news and Reddit with CBP and ICE enforcement indicators.</p>
+      <p><strong>Methods:</strong> monthly aggregation, z-scores, divergence measures, regression, residual diagnostics</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Sagnik-Chakravarty/AAPOR_EV_Project">EV Sentiment: LLMs vs. Digital Trace Data</a></h3>
+      <p>AAPOR-selected project comparing LLM-generated EV sentiment with observed public discourse from Reddit, news, and online data.</p>
+      <p><strong>Methods:</strong> sentiment analysis, LLM evaluation, platform comparison, public opinion measurement</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Sagnik-Chakravarty/Media-Aware-GTI-ML">Media-Aware GTI-ML</a></h3>
+      <p>Interpretable ML project combining Global Terrorism Database event records with international news framing to analyze terrorism severity rankings.</p>
+      <p><strong>Methods:</strong> random forest, decision trees, feature importance, residual analysis, media framing</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Sagnik-Chakravarty/ThuggerDaily">ThuggerDaily / NarrativePulse</a></h3>
+      <p>Public narrative analytics project studying how ThuggerDaily activity temporally aligned with YSL RICO trial discourse across sentiment, engagement, volume, and topic prevalence.</p>
+      <p><strong>Methods:</strong> schema standardization, sentiment scoring, engagement normalization, topic grouping, event-window analysis, pre/post tests, lag correlations, regression summaries, DiD, interrupted time series, Streamlit, Neon/Postgres</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -104,44 +134,9 @@ Data cleaning | reproducible reporting | dashboards | research communication
 
 ### Commit Activity
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Sagnik-Chakravarty/FrameScope">FrameScope</a></h3>
-      <p>LLM-assisted metaphor, stance, and framing analysis of AI discourse across news and social media.</p>
-      <p><strong>Methods:</strong> LLM annotation, metaphor detection, stance classification, embeddings, NLP pipelines</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Sagnik-Chakravarty/ASHA">ASHA Survey Methodology Analysis</a></h3>
-      <p>Survey methodology project evaluating postcard reminders, mail vs. web mode effects, response rates, and subgroup nonresponse.</p>
-      <p><strong>Methods:</strong> response-rate analysis, bootstrap inference, logistic regression, chi-square tests</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Sagnik-Chakravarty/Immigration-Narrative-Vs-Enforcement">Immigration Narratives vs. Enforcement</a></h3>
-      <p>Policy/data project comparing immigration narratives from news and Reddit with CBP and ICE enforcement indicators.</p>
-      <p><strong>Methods:</strong> monthly aggregation, z-scores, divergence measures, regression, residual diagnostics</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Sagnik-Chakravarty/AAPOR_EV_Project">EV Sentiment: LLMs vs. Digital Trace Data</a></h3>
-      <p>AAPOR-selected project comparing LLM-generated EV sentiment with observed public discourse from Reddit, news, and online data.</p>
-      <p><strong>Methods:</strong> sentiment analysis, LLM evaluation, platform comparison, public opinion measurement</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Sagnik-Chakravarty/Media-Aware-GTI-ML">Media-Aware GTI-ML</a></h3>
-      <p>Interpretable ML project combining Global Terrorism Database event records with international news framing to analyze terrorism severity rankings.</p>
-      <p><strong>Methods:</strong> random forest, decision trees, feature importance, residual analysis, media framing</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Sagnik-Chakravarty/ThuggerDaily">ThuggerDaily / NarrativePulse</a></h3>
-      <p>Public narrative analytics project studying how ThuggerDaily activity temporally aligned with YSL RICO trial discourse across sentiment, engagement, volume, and topic prevalence.</p>
-      <p><strong>Methods:</strong> schema standardization, sentiment scoring, engagement normalization, topic grouping, event-window analysis, pre/post tests, lag correlations, regression summaries, DiD, interrupted time series, Streamlit, Neon/Postgres</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagnik-Chakravarty&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+</p>
 
 ---
 
