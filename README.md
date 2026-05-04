@@ -43,44 +43,14 @@ I build projects that connect statistical rigor with practical data systems: sur
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Sagnik-Chakravarty/FrameScope">FrameScope</a></h3>
-      <p>LLM-assisted metaphor, stance, and framing analysis of AI discourse across news and social media.</p>
-      <p><strong>Methods:</strong> LLM annotation, metaphor detection, stance classification, embeddings, NLP pipelines</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Sagnik-Chakravarty/ASHA">ASHA Survey Methodology Analysis</a></h3>
-      <p>Survey methodology project evaluating postcard reminders, mail vs. web mode effects, response rates, and subgroup nonresponse.</p>
-      <p><strong>Methods:</strong> response-rate analysis, bootstrap inference, logistic regression, chi-square tests</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Sagnik-Chakravarty/Immigration-Narrative-Vs-Enforcement">Immigration Narratives vs. Enforcement</a></h3>
-      <p>Policy/data project comparing immigration narratives from news and Reddit with CBP and ICE enforcement indicators.</p>
-      <p><strong>Methods:</strong> monthly aggregation, z-scores, divergence measures, regression, residual diagnostics</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Sagnik-Chakravarty/AAPOR_EV_Project">EV Sentiment: LLMs vs. Digital Trace Data</a></h3>
-      <p>AAPOR-selected project comparing LLM-generated EV sentiment with observed public discourse from Reddit, news, and online data.</p>
-      <p><strong>Methods:</strong> sentiment analysis, LLM evaluation, platform comparison, public opinion measurement</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Sagnik-Chakravarty/Media-Aware-GTI-ML">Media-Aware GTI-ML</a></h3>
-      <p>Interpretable ML project combining Global Terrorism Database event records with international news framing to analyze terrorism severity rankings.</p>
-      <p><strong>Methods:</strong> random forest, decision trees, feature importance, residual analysis, media framing</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Sagnik-Chakravarty/Moneyball_FC">Moneyball FC</a></h3>
-      <p>Football analytics project using multilevel modeling to study how player, club, and league-level factors shape market value.</p>
-      <p><strong>Methods:</strong> multilevel regression, variance decomposition, player valuation, sports analytics</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Sagnik-Chakravarty/FrameScope">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagnik-Chakravarty&repo=FrameScope&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Sagnik-Chakravarty/ThuggerDaily">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagnik-Chakravarty&repo=ThuggerDaily&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
