@@ -30,6 +30,22 @@ I build projects that connect statistical rigor with practical data systems: sur
 
 ---
 
+## Research at a Glance
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-10%2B-blue?style=for-the-badge" alt="Projects" />
+  <img src="https://img.shields.io/badge/Live%20Dashboards-3%2B-green?style=for-the-badge" alt="Live dashboards" />
+  <img src="https://img.shields.io/badge/Data%20Sources-Surveys%20%7C%20Reddit%20%7C%20News%20%7C%20Admin%20Data-informational?style=for-the-badge" alt="Data sources" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Methods-Regression%20%7C%20Bootstrap%20%7C%20DiD-purple?style=for-the-badge" alt="Methods" />
+  <img src="https://img.shields.io/badge/NLP-Stance%20%7C%20Sentiment%20%7C%20Metaphor-blue?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-Annotation%20%7C%20Validation-orange?style=for-the-badge" alt="LLM evaluation" />
+</p>
+
+---
+
 ## Current Research Focus
 
 - Survey methodology, nonresponse, mode effects, and Total Survey Error
