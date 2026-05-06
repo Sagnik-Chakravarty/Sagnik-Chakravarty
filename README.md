@@ -46,8 +46,6 @@ I build projects that connect statistical rigor with practical data systems: sur
 
 ---
 
----
-
 ## Current Research Focus
 
 - Survey methodology, nonresponse, mode effects, and Total Survey Error
